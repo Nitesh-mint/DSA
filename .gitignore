@@ -1,2 +1,4 @@
 *.json
 !spec/*.json
+*.executable
+!spec/*.executable
