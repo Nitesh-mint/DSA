@@ -43,10 +43,7 @@ int main(){
             case(4):
             show();
             break;  
-
-            case(5):
-            delete();
-            break;        
+        
         }
     }
 
