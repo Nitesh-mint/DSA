@@ -2,3 +2,4 @@
 !spec/*.json
 Queue/linearQueue
 Queue/circuleaQueue
+*.exe
